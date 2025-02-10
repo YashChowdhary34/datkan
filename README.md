@@ -2,7 +2,7 @@
 
 ### Introduction
 
-DatKan is a privacy-focused open-source analytics platform that creates personas and provides comprehensive analytics without compromising user privacy or violating data protection regulations.
+DatKan is a privacy-focused open-source analytics platform that gives access to AI Agents, creates personas and provides comprehensive analytics without compromising user privacy or violating data protection regulations.
 
 ### Scope
 
